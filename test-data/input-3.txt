@@ -1,0 +1,2 @@
+# Try firing without initializing a ship
+TORPEDO,SINGLE
