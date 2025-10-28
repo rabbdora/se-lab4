@@ -1,0 +1,5 @@
+# Create a ship that can fire more than one times, in several modes
+GT4500,10,0.0,10,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL

@@ -1,0 +1,4 @@
+# Create a ship with only one store failing (second version)
+GT4500,5,0.0,5,1.0
+TORPEDO,SINGLE
+TORPEDO,ALL
