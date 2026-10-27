@@ -1,0 +1,6 @@
+GT4500,1,0,3,0
+TORPEDO,SINGLE  #primary (now empty)
+TORPEDO,SINGLE  #secondary
+TORPEDO,SINGLE  #primary empty -> secondary
+TORPEDO,SINGLE  #primary empty -> secondary
+TORPEDO,SINGLE  #both empty

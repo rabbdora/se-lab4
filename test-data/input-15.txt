@@ -1,0 +1,6 @@
+GT4500,2,0,2,0
+TORPEDO,SINGLE  #primary
+TORPEDO,SINGLE  #secondary
+TORPEDO,SINGLE  #primary
+TORPEDO,SINGLE  #secondary
+TORPEDO,SINGLE  #both empty
