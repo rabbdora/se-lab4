@@ -1,0 +1,4 @@
+GT4500,2,0,2,1.0
+TORPEDO,SINGLE  #primary
+TORPEDO,SINGLE  #secondary fails
+TORPEDO,SINGLE  #primary again
